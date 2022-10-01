@@ -1,2 +1,2 @@
 # HealthAnalyticsDeliverables
-Sample Deliverables Produced by Students in Courses (All names are obfuscated) 
+Sample Deliverables Produced by Students in Courses (All names are obfuscated). Students enrolled in health analytics in these projects utilized programming techniques to provide insights about health issues. The infographics were produced by juniors in an introductory SQL-Based data structures course, while the research posters were produced by seniors in a capstone course.
